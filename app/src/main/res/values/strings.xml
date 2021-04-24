@@ -1,0 +1,5 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Musical Structure</string>
+    <string name="next">Next:</string>
+    <string name="the_album_image">The album image</string>
+</resources>

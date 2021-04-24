@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="next">Suivant:</string>
+    <string name="the_album_image">L\'image de l\'album</string>
+</resources>
